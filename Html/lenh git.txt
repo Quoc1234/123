@@ -1,0 +1,9 @@
+git init // khoi tao lien ket vs repository
+
+git remote add origin // dan duong dan toi github  
+
+git add .
+
+git commit -m "noi dung mess"
+
+git push origin master 
